@@ -7,6 +7,15 @@ Make your pet look fashionable. 🎩
 
  [Page on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3281444009).
 
+## ✨ Usage (NuGet package)
+- [LinePutScript](https://github.com/LorisYounger/LinePutScript?tab=readme-ov-file)
+- [LinePutScript.Localization.WPF](https://github.com/LorisYounger/LinePutScript.Localization.WPF)
+- [Panuon.WPF](https://github.com/Panuon/Panuon.WPF)
+- [Panuon.WPF.UI](https://github.com/Panuon/Panuon.WPF.UI)
+- [System.Drawing.Common](https://github.com/dotnet/winforms)
+- [VPet-Simulator.Core](https://github.com/LorisYounger/VPet)
+- [VPet-Simulator.Windows.Interface](https://github.com/LorisYounger/VPet)
+
 ## 🔥 Screenshots
 
 ![Screenshot1](https://steamuserimages-a.akamaihd.net/ugc/2538423216285865633/41A5AF97B17DE2ACB5B61CD29C6D8B6EC94B61B0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
